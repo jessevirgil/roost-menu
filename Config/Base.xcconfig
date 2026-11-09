@@ -1,0 +1,14 @@
+// Default build settings, safe for anyone to build with no Apple Developer account.
+// To use your own bundle ID or signing identity, copy Local.xcconfig.example to Local.xcconfig
+// (that file is git-ignored) and edit it. Settings in Local.xcconfig win over the defaults below.
+
+// A unique reverse-DNS name for your copy of the app. It also names the Keychain entries.
+PRODUCT_BUNDLE_IDENTIFIER = com.example.RoostMenu
+
+// Leave the team empty and the identity as "-" for ad-hoc signing (runs on this Mac only).
+// With an Apple Developer team, set DEVELOPMENT_TEAM and CODE_SIGN_IDENTITY = Apple Development.
+DEVELOPMENT_TEAM =
+CODE_SIGN_STYLE = Manual
+CODE_SIGN_IDENTITY = -
+
+#include? "Local.xcconfig"

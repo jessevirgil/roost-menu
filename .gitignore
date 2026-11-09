@@ -1,0 +1,20 @@
+# Build output
+build/
+build-release/
+DerivedData/
+RoostMenu.xcodeproj/
+
+# Your own signing / bundle ID settings
+Config/Local.xcconfig
+
+# The author's own website (contains personal contact details) and Netlify link
+site/
+.netlify/
+
+# macOS / Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Release output
+dist/

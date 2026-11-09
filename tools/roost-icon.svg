@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1124" height="1124" viewBox="0 0 1124 1124" role="img" aria-labelledby="title desc">
+<title id="title">Roost Menu icon</title>
+<desc id="desc">Three white eggs in a multicolor woven nest on a white square background. Editable vector source for the Roost Menu app icon.</desc>
+<defs>
+<linearGradient id="back-colors" gradientUnits="userSpaceOnUse" x1="274" y1="535" x2="867" y2="591"><stop offset="0" stop-color="#ef5c0b"/><stop offset="0.23" stop-color="#ed4747"/><stop offset="0.48" stop-color="#e75b91"/><stop offset="0.7" stop-color="#6874c8"/><stop offset="0.88" stop-color="#187fd4"/><stop offset="1" stop-color="#0079c4"/></linearGradient>
+<linearGradient id="back-depth" x1="0" y1="0" x2="0" y2="1"><stop offset=".2" stop-color="#003643" stop-opacity="0"/><stop offset="1" stop-color="#003643" stop-opacity=".48"/></linearGradient>
+<linearGradient id="base" gradientUnits="userSpaceOnUse" x1="280" y1="833" x2="900" y2="835"><stop offset="0" stop-color="#e4bc00"/><stop offset="0.27" stop-color="#63b31b"/><stop offset="0.49" stop-color="#00a84b"/><stop offset="0.73" stop-color="#00a58e"/><stop offset="1" stop-color="#007eae"/></linearGradient>
+<radialGradient id="base-shadow" gradientUnits="userSpaceOnUse" cx="540" cy="793" r="242" gradientTransform="translate(0 150) scale(1 .82)"><stop offset="0" stop-color="#005b31" stop-opacity="0.58"/><stop offset="1" stop-color="#005b31" stop-opacity="0"/></radialGradient>
+<linearGradient id="left-fold" gradientUnits="userSpaceOnUse" x1="177" y1="587" x2="535" y2="803"><stop offset="0" stop-color="#ff7900"/><stop offset="0.39" stop-color="#ffb600"/><stop offset="0.63" stop-color="#f6de36"/><stop offset="1" stop-color="#58b627"/></linearGradient>
+<linearGradient id="top-ribbon" gradientUnits="userSpaceOnUse" x1="195" y1="637" x2="939" y2="680"><stop offset="0" stop-color="#ffe272"/><stop offset="0.2" stop-color="#ffd329"/><stop offset="0.36" stop-color="#a7c51e"/><stop offset="0.51" stop-color="#42bf36"/><stop offset="0.66" stop-color="#00a957"/><stop offset="0.81" stop-color="#00a9bb"/><stop offset="1" stop-color="#65c8fa"/></linearGradient>
+<linearGradient id="rim-edge" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".85" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".23"/></linearGradient>
+<linearGradient id="cross-ribbon" gradientUnits="userSpaceOnUse" x1="223" y1="862" x2="947" y2="699"><stop offset="0" stop-color="#f8ac00"/><stop offset="0.2" stop-color="#d2d62b"/><stop offset="0.37" stop-color="#74c530"/><stop offset="0.57" stop-color="#00ac60"/><stop offset="0.75" stop-color="#00a9b6"/><stop offset="1" stop-color="#008feb"/></linearGradient>
+<linearGradient id="cross-highlight" gradientUnits="userSpaceOnUse" x1="288" y1="842" x2="900" y2="727"><stop offset="0" stop-color="#fff29a"/><stop offset="0.32" stop-color="#c9ed74"/><stop offset="0.65" stop-color="#8fe5b8"/><stop offset="1" stop-color="#81d4ff"/></linearGradient>
+<linearGradient id="bottom-glint" gradientUnits="userSpaceOnUse" x1="708" y1="867" x2="941" y2="752"><stop offset="0" stop-color="#a4ead0"/><stop offset="1" stop-color="#82d1fa"/></linearGradient>
+<linearGradient id="red-ray" gradientUnits="userSpaceOnUse" x1="565" y1="176" x2="565" y2="301"><stop offset="0" stop-color="#ff5266"/><stop offset="0.4" stop-color="#f56b48"/><stop offset="1" stop-color="#8fb647"/></linearGradient>
+<linearGradient id="yellow-ray" gradientUnits="userSpaceOnUse" x1="383" y1="262" x2="464" y2="340"><stop offset="0" stop-color="#ffae00"/><stop offset="1" stop-color="#ebc525"/></linearGradient>
+<linearGradient id="blue-ray" gradientUnits="userSpaceOnUse" x1="749" y1="259" x2="671" y2="341"><stop offset="0" stop-color="#179ff2"/><stop offset="1" stop-color="#29adb4"/></linearGradient>
+<radialGradient id="egg-center" gradientUnits="userSpaceOnUse" cx="527" cy="486" r="250"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.35" stop-color="#fdfdfd" stop-opacity="1"/><stop offset="0.66" stop-color="#efefef" stop-opacity="1"/><stop offset="1" stop-color="#bfc0bf" stop-opacity="1"/></radialGradient>
+<radialGradient id="egg-left" gradientUnits="userSpaceOnUse" cx="369" cy="590" r="235"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.35" stop-color="#fdfdfd" stop-opacity="1"/><stop offset="0.66" stop-color="#efefef" stop-opacity="1"/><stop offset="1" stop-color="#bfc0bf" stop-opacity="1"/></radialGradient>
+<radialGradient id="egg-right" gradientUnits="userSpaceOnUse" cx="699" cy="593" r="239"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.35" stop-color="#fdfdfd" stop-opacity="1"/><stop offset="0.66" stop-color="#efefef" stop-opacity="1"/><stop offset="1" stop-color="#bfc0bf" stop-opacity="1"/></radialGradient>
+<radialGradient id="rim-glow" gradientUnits="userSpaceOnUse" cx="220" cy="585" r="375"><stop offset="0" stop-color="#fff6c5" stop-opacity="0.24"/><stop offset="0.58" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<radialGradient id="rim-right-glow" gradientUnits="userSpaceOnUse" cx="910" cy="569" r="164"><stop offset="0" stop-color="#97e4ff" stop-opacity="0.45"/><stop offset="1" stop-color="#97e4ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="front-depth" gradientUnits="userSpaceOnUse" cx="522" cy="805" r="250" gradientTransform="translate(0 402) scale(1 .5)"><stop offset="0" stop-color="#427600" stop-opacity="0.27"/><stop offset="0.55" stop-color="#427600" stop-opacity="0.06"/><stop offset="1" stop-color="#427600" stop-opacity="0"/></radialGradient>
+<radialGradient id="cross-glow" gradientUnits="userSpaceOnUse" cx="396" cy="858" r="165" gradientTransform="translate(0 429) scale(1 .5)"><stop offset="0" stop-color="#ecff9e" stop-opacity="0.28"/><stop offset="1" stop-color="#ecff9e" stop-opacity="0"/></radialGradient>
+</defs>
+    <path id="white-background" d="M0 0H1124V1124H0Z" fill="#fff" />
+<g id="nest-icon" transform="translate(-1.5 -3.5)">
+<g id="new-life-marks">
+    <path id="left-mark" d="M379 257C389 247 405 247 415 257L467 308C477 318 477 334 467 343C457 352 442 351 432 341L379 291C369 281 369 267 379 257Z" fill="url(#yellow-ray)" />
+    <path id="center-mark" d="M540 201C540 186 551 175 566 175C581 175 592 186 592 201V276C592 291 581 302 566 302C551 302 540 291 540 276Z" fill="url(#red-ray)" />
+    <path id="right-mark" d="M716 257C726 247 742 247 752 257C762 267 761 283 751 293L700 342C690 352 674 352 664 342C654 332 654 317 664 307Z" fill="url(#blue-ray)" />
+</g><g id="nest-interior">
+    <path id="back-wall" d="M234 551C240 470 387 393 564 393C736 393 877 467 897 549C919 642 782 730 565 740C346 738 218 648 234 551Z" fill="url(#back-colors)" />
+    <path id="back-wall-shading" d="M234 551C240 470 387 393 564 393C736 393 877 467 897 549C919 642 782 730 565 740C346 738 218 648 234 551Z" fill="url(#back-depth)" />
+</g><g id="eggs">
+    <path id="rear-egg" d="M444 594C443 522 498 434 564 434C630 434 688 514 690 590C694 675 647 732 568 741C490 742 444 681 444 594Z" fill="url(#egg-center)" />
+    <path id="left-egg" d="M303 679C309 611 354 538 417 538C491 538 558 638 562 731C563 784 506 808 432 792C354 780 293 741 303 679Z" fill="url(#egg-left)" />
+    <path id="right-egg" d="M572 730C574 646 639 539 710 539C775 539 823 608 828 679C835 744 782 785 707 798C628 811 570 786 572 730Z" fill="url(#egg-right)" />
+</g><g id="woven-ribbons">
+    <path id="bottom-bowl" d="M180 724C229 751 362 795 548 798C727 800 873 754 952 705C958 800 902 868 802 914C733 945 658 956 570 956C479 956 382 942 315 912C235 875 193 815 180 724Z" fill="url(#base)" />
+    <path id="bottom-bowl-shadow" d="M180 724C229 751 362 795 548 798C727 800 873 754 952 705C958 800 902 868 802 914C733 945 658 956 570 956C479 956 382 942 315 912C235 875 193 815 180 724Z" fill="url(#base-shadow)" />
+    <path id="left-descending-ribbon" d="M179 550C156 594 196 654 274 700C347 744 446 784 551 815C470 842 369 836 282 806C188 774 147 712 148 645C148 608 157 577 179 550Z" fill="url(#left-fold)" />
+    <path id="lower-right-revealed-edge" d="M710 867C808 818 896 781 952 722C952 743 946 762 935 779C879 821 792 860 710 867Z" fill="url(#bottom-glint)" />
+    <path id="upper-loop-ribbon" d="M315 451C264 482 231 521 233 566C236 615 266 644 306 666C377 707 467 730 563 730C669 730 765 707 828 667C882 634 905 598 898 556C892 512 858 480 813 453C905 490 960 539 957 585C952 646 896 697 813 738C739 775 643 803 551 816C439 791 342 757 263 711C201 675 173 633 173 585C173 540 233 485 315 451Z" fill="url(#top-ribbon)" />
+    <path id="upper-loop-soft-edge" d="M315 451C264 482 231 521 233 566C236 615 266 644 306 666C377 707 467 730 563 730C669 730 765 707 828 667C882 634 905 598 898 556C892 512 858 480 813 453C905 490 960 539 957 585C952 646 896 697 813 738C739 775 643 803 551 816C439 791 342 757 263 711C201 675 173 633 173 585C173 540 233 485 315 451Z" fill="url(#rim-edge)" />
+    <path id="upper-loop-left-light" d="M315 451C264 482 231 521 233 566C236 615 266 644 306 666C377 707 467 730 563 730C669 730 765 707 828 667C882 634 905 598 898 556C892 512 858 480 813 453C905 490 960 539 957 585C952 646 896 697 813 738C739 775 643 803 551 816C439 791 342 757 263 711C201 675 173 633 173 585C173 540 233 485 315 451Z" fill="url(#rim-glow)" />
+    <path id="upper-loop-right-light" d="M315 451C264 482 231 521 233 566C236 615 266 644 306 666C377 707 467 730 563 730C669 730 765 707 828 667C882 634 905 598 898 556C892 512 858 480 813 453C905 490 960 539 957 585C952 646 896 697 813 738C739 775 643 803 551 816C439 791 342 757 263 711C201 675 173 633 173 585C173 540 233 485 315 451Z" fill="url(#rim-right-glow)" />
+    <path id="upper-loop-front-depth" d="M315 451C264 482 231 521 233 566C236 615 266 644 306 666C377 707 467 730 563 730C669 730 765 707 828 667C882 634 905 598 898 556C892 512 858 480 813 453C905 490 960 539 957 585C952 646 896 697 813 738C739 775 643 803 551 816C439 791 342 757 263 711C201 675 173 633 173 585C173 540 233 485 315 451Z" fill="url(#front-depth)" />
+    <path id="lower-crossing-ribbon" d="M180 757C261 821 347 846 461 826C596 803 784 739 905 682C938 651 959 614 956 565C974 594 984 628 976 664C965 720 911 756 840 796C754 845 650 899 552 918C443 940 332 920 267 881C214 849 189 801 180 757Z" fill="url(#cross-ribbon)" />
+    <path id="crossing-ribbon-lit-edge" d="M180 736C246 791 346 827 462 826C597 804 761 749 838 728C751 780 642 828 537 855C399 893 284 857 188 776Z" fill="url(#cross-highlight)" />
+    <path id="crossing-ribbon-soft-light" d="M180 757C261 821 347 846 461 826C596 803 784 739 905 682C938 651 959 614 956 565C974 594 984 628 976 664C965 720 911 756 840 796C754 845 650 899 552 918C443 940 332 920 267 881C214 849 189 801 180 757Z" fill="url(#cross-glow)" />
+</g>
+</g>
+</svg>

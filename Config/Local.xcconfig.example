@@ -1,0 +1,9 @@
+// Copy this file to Local.xcconfig and fill in your own values. Local.xcconfig is git-ignored.
+
+// A unique reverse-DNS name, e.g. com.yourname.RoostMenu
+PRODUCT_BUNDLE_IDENTIFIER = com.yourname.RoostMenu
+
+// Optional: your 10-character Apple Developer Team ID (Xcode > Settings > Accounts, or your signing certificate's OU).
+// Leave both lines out to use ad-hoc signing, which is fine for running on your own Mac.
+// DEVELOPMENT_TEAM = ABCDE12345
+// CODE_SIGN_IDENTITY = Apple Development
