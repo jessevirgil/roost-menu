@@ -36,6 +36,7 @@ into the app's Settings. That takes about **15 minutes and a one-time US$5** fee
 
 ## Download (no Xcode needed)
 
+Get the latest `.dmg` from the [Releases page](https://github.com/jessevirgil/roost-menu/releases/latest).
 Releases are signed with a Developer ID and notarized by Apple, so macOS opens them normally. Open the `.dmg`, drag
 **Roost Menu** into **Applications**, launch it, and follow [SETUP.md](SETUP.md) to connect your own Google account
 (about 15 minutes, one time). macOS may say the app was downloaded from the internet. Click **Open**.
@@ -43,8 +44,8 @@ Releases are signed with a Developer ID and notarized by Apple, so macOS opens t
 ## Build and run from source
 
 ```bash
-git clone <this repository>
-cd <the cloned folder>
+git clone https://github.com/jessevirgil/roost-menu.git
+cd roost-menu
 ./run.sh            # builds, then launches the app
 ```
 
